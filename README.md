@@ -1,2 +1,2 @@
 # Stock-Prediction
-Stock Prediction using RNN
+Stock Prediction using LSTM
